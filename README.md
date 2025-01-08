@@ -7,10 +7,15 @@ The application includes a search bar for users to search for weather details in
 
 **Key Features**
 **Real-time Weather Updates**: View the current weather conditions for any location, including temperature, humidity, wind pressure, and weather description.
+
 **5-Day Weather Forecast**: Detailed weather predictions for the next five days with visual icons.
+
 **Search Functionality**: Easily search for weather details by entering the desired location in the search bar.
+
 **Geographical Data**: Display of longitude and latitude for the searched location.
+
 **Dynamic Weather Icons**: Weather condition images that provide an engaging visual representation of the forecast.
+
 **Responsive Design**: Optimized for both desktop and mobile devices.
 
 **Technologies Used**
